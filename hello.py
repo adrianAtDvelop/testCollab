@@ -1,5 +1,8 @@
 print("Hello, World!")
 
+thistuple = ("apple", "banana", "cherry")
+print(thistuple)
+
 x = 5
 y = "John"
 print(x)
@@ -15,3 +18,5 @@ print(type(z))
 
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
+
+
